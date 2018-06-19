@@ -7,7 +7,7 @@ I'd like to share a sample project for Xamarin, .NET Standard 2.0 and Cognitive 
 
 **And you can download the deck as PDF here:<br/> [decode2018_PDF_AD14.pdf](https://eventmarketing.blob.core.windows.net/decode2018-after/decode2018_PDF_AD14.pdf)**
 
- ![.NET Everywhere](ScreenShots/dotnet_everywhere.png ".NET Everywhere")
+ ![.NET Everywhere](ScreenShots/dotnet_everywhere.PNG ".NET Everywhere")
 
 ## This sample code is:
 
